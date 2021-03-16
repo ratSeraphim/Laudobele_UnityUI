@@ -2,8 +2,8 @@
 Pārbaudes darbs par UI elementiem
 ## Uzdevumi
 
-- [ ] Ievietot UNITY projektu versionētajā mapē
-- [ ] Pārliecināties lai Unity projekts tiktu versionēts
+- [x] Ievietot UNITY projektu versionētajā mapē
+- [x] Pārliecināties lai Unity projekts tiktu versionēts
 - [ ] Atrast/izveidot ģērbjamo tēlu un tā apģērbus
 - [ ] Pievienot tēla vecuma un vārda ievadīšanu
 - [ ] Pārliecināties lai vecuma lauciņā var ierakstīt tikai ciparus
