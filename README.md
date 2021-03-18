@@ -12,7 +12,7 @@ Pārbaudes darbs par UI elementiem
 - [x] Pievienot apģērba kategorijas
 - [x] Padarīt apģērba kategorijas paslēpjamas
 - [ ] Scroll view ar aprakstu par tēliem un projektu
-- [ ] Pievienot slider elementus tēla garumam un platumam
+- [x] Pievienot slider elementus tēla garumam un platumam
 - [ ] Pievienot skaņas efektus
 
 
