@@ -5,6 +5,10 @@ using UnityEngine.UI;
 
 public class AtteluParadisana : MonoBehaviour
 {
+    public GameObject krekli;
+    public GameObject bikses;
+    public GameObject kurpes;
+    
     public GameObject mainigaisAttels1;
     public Sprite[] atteluMasivs;
 
@@ -20,6 +24,19 @@ public class AtteluParadisana : MonoBehaviour
             Debug.Log("Vīrietis");
             mainigaisAttels1.GetComponent<Image>().sprite = atteluMasivs[1];
         }
+    }
+    public void krekliAttelosana(bool vertiba)
+    {
+        krekli.SetActive(vertiba);
+    }
+    public void biksesAttelosana(bool vertiba)
+    {
+        bikses.SetActive(vertiba);
+    }
+    
+    public void kurpesAttelosana(bool vertiba)
+    {
+        kurpes.SetActive(vertiba);
     }
    
 }

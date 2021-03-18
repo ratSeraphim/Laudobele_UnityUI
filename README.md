@@ -7,10 +7,10 @@ Pārbaudes darbs par UI elementiem
 - [x] Atrast/izveidot ģērbjamo tēlu un tā apģērbus
 - [x] Pievienot tēla vecuma un vārda ievadīšanu
 - [x] Pārliecināties lai vecuma lauciņā var ierakstīt tikai ciparus
-- [ ] Pievienot izkrītošo sarakstu tēla izvēlei
-- [ ] Pievienot apģērba kategorijas
-- [ ] Padarīt apģērba kategorijas paslēpjamas
-- [ ] Padarīt apģērbu pārvietojamu ar peles klikšķi 
+- [x] Pievienot izkrītošo sarakstu tēla izvēlei
+- [x] Padarīt apģērbu pārvietojamu ar peles klikšķi 
+- [x] Pievienot apģērba kategorijas
+- [x] Padarīt apģērba kategorijas paslēpjamas
 - [ ] Scroll view ar aprakstu par tēliem un projektu
 - [ ] Pievienot slider elementus tēla garumam un platumam
 - [ ] Pievienot skaņas efektus
