@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class AtteluParadisana : MonoBehaviour
 {
-    public GameObject mainigaisAttels;
+    public GameObject mainigaisAttels1;
     public Sprite[] atteluMasivs;
 
     public void izkritosais(int skaitlis)
@@ -13,12 +13,13 @@ public class AtteluParadisana : MonoBehaviour
         if (skaitlis == 0)
         {
             Debug.Log("Sieviete");
-            mainigaisAttels.GetComponent<Image>().sprite = atteluMasivs[0];
+            mainigaisAttels1.GetComponent<Image>().sprite = atteluMasivs[0];
         }
         if (skaitlis == 1)
         {
             Debug.Log("Vīrietis");
-            mainigaisAttels.GetComponent<Image>().sprite = atteluMasivs[1];
+            mainigaisAttels1.GetComponent<Image>().sprite = atteluMasivs[1];
         }
     }
+   
 }
