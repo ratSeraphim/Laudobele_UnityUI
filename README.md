@@ -11,9 +11,9 @@ Pārbaudes darbs par UI elementiem
 - [x] Padarīt apģērbu pārvietojamu ar peles klikšķi 
 - [x] Pievienot apģērba kategorijas
 - [x] Padarīt apģērba kategorijas paslēpjamas
-- [ ] Scroll view ar aprakstu par tēliem un projektu
+- [x] Scroll view ar aprakstu par tēliem un projektu
 - [x] Pievienot slider elementus tēla garumam un platumam
-- [ ] Pievienot skaņas efektus
+- [x] Pievienot skaņas efektus
 
 
 Ģērbjamie tēli (source): 
